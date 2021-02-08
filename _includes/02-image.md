@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of my face](C:\Users\Andrew\OneDrive\Programming\project - AR dev camp\my-face.PNG)
